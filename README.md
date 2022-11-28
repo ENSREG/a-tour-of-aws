@@ -1,7 +1,9 @@
 # A tour of AWS ☄️
 
 這份文件主要會記錄我個人學習 AWS 雲端架構的學習筆記， 本文件的內容會涵蓋 AWS Solution Architect Associate（SAA）的考試範圍。
-同時這份文件也會整理一些我個人覺得還不錯的技術文件並且適時地補充與 AWS 有關的核心概念以及一些不錯的實戰範例（以網路上普遍認可的 Best Pratice 為主）。
+同時這份文件也會整理一些我個人覺得還不錯的技術文件並且適時地補充與 AWS 有關的核心概念以及一些不錯的實戰範例（以網路上普遍認可的 Best Practice 為主）。
+
+- [筆記連結](https://github.com/ianchen0119/a-tour-of-aws/wiki)
 
 ## AWS 簡介
 
